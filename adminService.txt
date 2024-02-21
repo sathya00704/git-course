@@ -6,6 +6,7 @@ create an avatar
 login and logout
 
 manage the database
+closing the mysql database
 
 change 1
 
