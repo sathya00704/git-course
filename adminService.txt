@@ -1,13 +1,14 @@
 add and remove users
 change the roles
-<<<<<<< HEAD
 
 create an avatar
 
 login and logout
-=======
+
 manage the database
 closing the connection
->>>>>>> feature2
+
 change 1
-change 2 in my database
+
+change 2 in harsh's database
+
