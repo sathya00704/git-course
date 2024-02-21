@@ -6,7 +6,6 @@ create an avatar
 login and logout
 
 manage the database
-closing the connection
 
 change 1
 
