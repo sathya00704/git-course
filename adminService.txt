@@ -9,3 +9,5 @@ login and logout
 manage the database
 closing the connection
 >>>>>>> feature2
+change 1
+change 2
