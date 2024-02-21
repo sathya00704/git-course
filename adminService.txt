@@ -1,13 +1,7 @@
 add and remove users
 change the roles
 
-create an avatar
-
 login and logout
 
-manage the database
-
 change 1
-
-change 2 in harsh's database
 
